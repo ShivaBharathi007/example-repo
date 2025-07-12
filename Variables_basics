@@ -1,0 +1,47 @@
+# #First variation
+# a = 87
+# b = 38
+# c = a+b
+# print(c)
+
+# #Second Variation
+# a = 87
+# b = 38
+# print(a+b)
+
+# #third Variation
+# add = 87+38
+# print(add)
+
+# #Fourth Variation
+# print(87+38)
+
+# #Fifth Variation
+# a,b = 87,38
+# print(a+b)
+
+# #Six variation
+# a,b = 87,38
+# c= a+b
+# print("Addition of 87 and 38 gives =",c)
+
+
+# message = "hello guys"
+# print("message :", message)
+
+
+# control + / for comment multi line
+
+
+user_name = "Henry"
+course = "Python Course"
+print("Hello!!",user_name," Welcome to ",course)
+
+user_name = "Henry"
+space = " "
+course = "Python Course"
+print(user_name+space+course)
+
+# num = 98
+# print(if)
+
